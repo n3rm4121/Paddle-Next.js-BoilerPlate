@@ -1,6 +1,6 @@
 # Paddle Payment Processor Integration for SaaS
 
-Read Full Blog 👉 [nirmaldhakal.xyz/set-up-paddle-in-nextjs-saas-application](nirmaldhakal.xyz/set-up-paddle-in-nextjs-saas-application)
+Read Full Blog 👉 [nirmaldhakal.xyz/set-up-paddle-in-nextjs-saas-application](https://nirmaldhakal.xyz/set-up-paddle-in-nextjs-saas-application)
 
 This repository demonstrates how to integrate **Paddle** as a payment processor into your **Next.js** SaaS application. By following the steps in this repo, you'll be able to manage subscriptions, handle payments, and interact with Paddle’s API using the `@paddle/paddle-js` SDK.
 
